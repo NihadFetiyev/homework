@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.card{
+    display: grid;
+    place-items: center;
+    width: 33%;
+    border: 2px solid #000;
+}
